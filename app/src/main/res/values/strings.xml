@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">popular-movies-1</string>
+    <string name="app_name">POP! Movies</string>
+
+    <string name="error_message">An error has occured. Please load again.</string>
+
+    <string name="sort_popular">Sort by Most Popular</string>
+    <string name="sort_rated">Sort by Top Rated</string>
 </resources>
